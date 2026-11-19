@@ -6,7 +6,7 @@ function read(k,f){try{return JSON.parse(localStorage.getItem('pt-'+k))??f}catch
 function write(k,v){try{localStorage.setItem('pt-'+k,JSON.stringify(v))}catch{toast('This browser cannot save changes. You can still explore.')}}
 let saved=read('saved',[]),history=read('history',[]),practiceOnly=read('practice',false);if(!Array.isArray(saved))saved=[];if(!Array.isArray(history))history=[];
 let view='home',category='all',query='',layout='grid',selectedLesson=null,active=null,wordIndex=0,revealed=false,finished=false;
-const ALL=[...VIDEOS,...PRACTICE],tones=['#e1ebce','#f5e6ad','#dae8ed','#e9dff0','#d7e9dc','#f1dfce'];
+const ALL=[...VIDEOS,...PRACTICE],tones=['#dae4ff','#ffe7aa','#dce9ff','#eadff8','#ffd9cc','#f9dfbd'];
 function esc(s){return String(s).replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]))}
 function time(s){return Math.floor(s/60)+':'+String(s%60).padStart(2,'0')}
 function lessonLabel(v){return 'LESSON '+v.lesson+(v.end!==v.lesson?'–'+v.end:'')}

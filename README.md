@@ -1,6 +1,6 @@
 # Phonics Tube
 
-A playful phonics library inspired by HackerTube, organised around the 128-lesson UFLI Foundations scope and sequence.
+A cobalt blue, warm yellow and coral phonics library inspired by HackerTube, organised around the 128-lesson UFLI Foundations scope and sequence.
 
 ## Run
 
@@ -22,7 +22,7 @@ Practice is original supplemental material, not a reproduction of UFLI lessons. 
 
 ## Deploy
 
-Serve `dist/` with any static hosting provider. `.openai/hosting.json` configures the private Sites preview. No API keys, accounts or backend needed.
+GitHub Pages serves `index.html` from the main branch root, using assets in `dist/`. Serve `dist/` directly with other static hosting providers. `.openai/hosting.json` configures the private Sites preview. No API keys, accounts or backend needed.
 
 ## Validate
 
