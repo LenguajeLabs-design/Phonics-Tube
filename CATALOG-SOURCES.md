@@ -1,0 +1,191 @@
+# Phonics Tube — video source register
+
+Research date: 19 November 2026. 164 linked videos. Listed runtimes were read from YouTube’s search or playlist listings, not estimated. A listed runtime does not certify instructional accuracy or embedding availability. Full-length instructional review is pending. No source video was copied or rehosted.
+
+Lesson mappings identify supporting material, often partial. British and American pronunciation differs; accents are noted when established. Repeated review mappings are intentional and are stored as explicit lesson arrays.
+
+## Primary source collections
+
+- [Have Fun Teaching: official alphabet songs](https://www.youtube.com/playlist?list=PLBADD94CE3A9304E0)
+- [English4abc: short vowels](https://www.youtube.com/playlist?list=PLnDbx1nleInH6-0o6edtSFrGOe536UZJK)
+- [Mr T’s Phonics: Letters and Sounds](https://www.youtube.com/playlist?list=PLqh11DN6jmbBHVCDeYtWRgJcZLowiu9cv)
+- [Nessy: spelling strategies](https://www.youtube.com/playlist?list=PLXptQXQyXxHsXpKBMGDSmaa1SW3QwMuaL)
+- [Nessy: reading strategies](https://www.youtube.com/playlist?list=PLXptQXQyXxHulCNatsVaDcTA0jdZCSSIa)
+- [4 Minute Phonics: vowel teams](https://www.youtube.com/playlist?list=PLobPSr157PUNipYE2gOUZgiJGLwXTez5h)
+- [4 Minute Phonics: blends and digraphs](https://www.youtube.com/playlist?list=PLobPSr157PUN9HzPxHrAJla4zTMHL_ebs)
+- [4 Minute Phonics: suffix practice](https://www.youtube.com/playlist?list=PLobPSr157PUPZQxRKRnYKB8TTL8E97DPK)
+- [Mr Spelling: spelling rule songs](https://www.youtube.com/playlist?list=PLEWGxfrIhHQ1efNGSK6WP2_xXfcqdRJVt)
+
+## Video register
+
+| Supporting lessons | Sound or pattern | Source | Listed runtime | Alignment note |
+|---|---|---|---|---|
+| 1 | a | [Find the short a sound](https://www.youtube.com/watch?v=pLITEDp2tCE) — Jack Hartmann | 1:59 | Sound isolation practice; supports short a, not a complete UFLI lesson. |
+| 8 | i | [Find the short i sound](https://www.youtube.com/watch?v=M0zxQgOM-9g) — Jack Hartmann | 1:59 | Sound isolation practice; supports short i. |
+| 11 | an | [Meet the -an word family](https://www.youtube.com/watch?v=ei3dsyr8A20) — Jack Hartmann | 3:34 | Supports an only, not am or an explicit explanation of nasalized a. |
+| 12 | o | [Find the short o sound](https://www.youtube.com/watch?v=f8fpfMN-sp8) — Jack Hartmann | 1:59 | Sound isolation practice; supports short o. |
+| 15 | u | [Find the short u sound](https://www.youtube.com/watch?v=zxi5wD6Mudg) — Jack Hartmann | 1:59 | Sound isolation practice; supports short u. |
+| 35 | c a t | [Let’s read short a words](https://www.youtube.com/watch?v=oDVAhDyHZaA) — Jack Hartmann | 2:20 | CVC short a practice. Does not cover every longer-word pattern or nasalized a in lesson 35. |
+| 36 | p i g | [Let’s read short i words](https://www.youtube.com/watch?v=13clYehVJHo) — Jack Hartmann | 2:20 | CVC short i practice; does not cover all longer-word patterns in lesson 36. |
+| 37 | d o g | [Let’s read short o words](https://www.youtube.com/watch?v=tkYDoNKit6o) — Jack Hartmann | 2:20 | CVC short o practice; does not cover all longer-word patterns in lesson 37. |
+| 41 | a e i o u | [The short vowel sound club](https://www.youtube.com/watch?v=-EbzKgs6Aiw) — Jack Hartmann | 3:04 | Reviews short vowel sounds; not a full decoding lesson. |
+| 42 | ff ll ss zz | [The Floss Rule Song](https://www.youtube.com/watch?v=P0ybAXXRFzk) — The Readers Garden | 2:33 | Creator labels this UFLI-aligned. Focus: FLSZ spelling rule. |
+| 44 | ck | [Two letters, one ck sound](https://www.youtube.com/watch?v=xU9NBzN98F0) — Scratch Garden | 2:31 | Supports ck. Preview vocabulary for patterns beyond lesson 44. |
+| 45 | sh | [Shhh… discover the sh sound](https://www.youtube.com/watch?v=eqigJZm5aa4) — Scratch Garden | 2:38 | Supports sh. Some example words may go beyond the current lesson. |
+| 46–47 | th | [The two sounds of th](https://www.youtube.com/watch?v=V-cvlZLNEBM) — Scratch Garden | 4:01 | Shared candidate for voiced and unvoiced th; check coverage before using for either lesson. |
+| 49 | ck sh ch th | [The digraph review rap](https://www.youtube.com/watch?v=bquLJVI9veQ) — Mr Spelling | 2:13 | Title explicitly identifies UFLI lesson 49; instructional review is pending. |
+| 50 | wh | [What’s that wh sound?](https://www.youtube.com/watch?v=TBA-R3Sx1Pc) — Scratch Garden | 2:37 | Supports wh only; lesson 50 also teaches ph. Pronunciation can vary by accent. |
+| 51 | ng | [Sing along with ng](https://www.youtube.com/watch?v=BhMk_o1Iu9Y) — Scratch Garden | 2:26 | Supports ng. Preview vocabulary before assigning. |
+| 54–59 | a → a_e | [A little magic with silent e](https://www.youtube.com/watch?v=wOnY3c5S1iU) — The Readers Garden | 2:36 | Broad VCe review. Covers multiple patterns together; best after instruction. Does not cover all exceptions. |
+| 64 | -ed | [Discover the -ed ending](https://www.youtube.com/watch?v=chTJpiaE0ik) — The Readers Garden | 2:10 | Candidate for -ed ending sounds; full content review pending. |
+| 69–71 | tch · dge | [The tch & dge team](https://www.youtube.com/watch?v=_514taz2auE) — The Readers Garden | 2:20 | Covers both patterns together; best as review after lesson 70. |
+| 77 | ar | [Set sail with the ar sound](https://www.youtube.com/watch?v=v_URzFmlSS4) — Nessy | 1:01 | Focuses on ar. Accent differs from some American classroom models. |
+| 80–82 | er ir ur | [The er, ir & ur sound family](https://www.youtube.com/watch?v=lNJGKrs8BGA) — Nessy | 1:13 | Shared review of er, ir, ur; does not establish coverage of w + or in lesson 82. |
+| 84–88 | ai · ee · oa | [Meet the long vowel teams](https://www.youtube.com/watch?v=KPfDIoMSaz0) — The Readers Garden | 2:32 | Includes ai, ay, ee, ea, ey, oa, ow, oe, ie, igh; best after teaching all patterns. |
+| 95 | oi · oy | [Oh boy! Discover oi & oy](https://www.youtube.com/watch?v=OdWkgYQnFcw) — English4abc | 2:43 | Supports oi and oy; preview word examples for sequencing. |
+| 98 | kn wr mb | [The quiet letter club](https://www.youtube.com/watch?v=OJG0OBwShGg) — The Readers Garden | 4:08 | Includes kn, wr, mb and also gn, which is introduced later in lesson 118. |
+| 99, 100, 101, 102, 106 | -ful · -less | [Small endings, new meanings](https://www.youtube.com/watch?v=fvmp_J-F65U) — The Readers Garden | 4:00 | Covers -s, -es, -er, -est, -ly, -less, -ful together. Best as review. |
+| 103, 104, 105, 106 | un- · re- | [A little beginning changes things](https://www.youtube.com/watch?v=PHOx_yRfATk) — The Readers Garden | 0:47 | Covers un-, re-, pre-, dis- together; best after these prefixes are taught. |
+| 107–108 | hop → hopping | [When do we double?](https://www.youtube.com/watch?v=rmHIqQr7Gf4) — The Readers Garden | 3:00 | Covers doubling with vowel suffixes -ed, -ing, -er, -est together. |
+| 109–110 | make → making | [Drop the e. Change y to i.](https://www.youtube.com/watch?v=zARKJ-w2XdQ) — The Readers Garden | 2:32 | Combines two rules; use after both have been explicitly taught. |
+| 119–120 | -tion · -ture | [The final syllable sing-along](https://www.youtube.com/watch?v=fSroXEWKxqw) — The Readers Garden | 3:01 | Covers -tion, -sion, -ture together; best after lesson 120. |
+| 2 | m | [Letter M Song](https://www.youtube.com/watch?v=AuRwrCxMP5Y) — Have Fun Teaching | 3:39 | Letter-name, letter-sound and handwriting song; includes vocabulary beyond this lesson. |
+| 3 | s | [Letter S Song](https://www.youtube.com/watch?v=_8oRsEQD2nI) — Have Fun Teaching | 3:40 | Letter-name, letter-sound and handwriting song; includes vocabulary beyond this lesson. |
+| 4 | t | [Letter T Song](https://www.youtube.com/watch?v=9rsjHpL4V7s) — Have Fun Teaching | 3:40 | Letter-name, letter-sound and handwriting song; includes vocabulary beyond this lesson. |
+| 6 | p | [Letter P Song](https://www.youtube.com/watch?v=r2owDOdk1sQ) — Have Fun Teaching | 3:41 | Letter-name, letter-sound and handwriting song; includes vocabulary beyond this lesson. |
+| 7 | f | [Letter F Song](https://www.youtube.com/watch?v=nrD5Cw84K9c) — Have Fun Teaching | 3:11 | Letter-name, letter-sound and handwriting song; includes vocabulary beyond this lesson. |
+| 9 | n | [Letter N Song](https://www.youtube.com/watch?v=BbcPdh4SSqc) — Have Fun Teaching | 3:33 | Letter-name, letter-sound and handwriting song; includes vocabulary beyond this lesson. |
+| 13 | d | [Letter D Song](https://www.youtube.com/watch?v=5Q9nfLVXlqQ) — Have Fun Teaching | 3:43 | Letter-name, letter-sound and handwriting song; includes vocabulary beyond this lesson. |
+| 14 | c | [Letter C Song](https://www.youtube.com/watch?v=HILgJh6tUXI) — Have Fun Teaching | 3:52 | Letter-name, letter-sound and handwriting song; includes vocabulary beyond this lesson. Preview for any soft-c examples; lesson 14 focuses on /k/. |
+| 16 | g | [Letter G Song](https://www.youtube.com/watch?v=aViXJgL7QNg) — Have Fun Teaching | 3:37 | Letter-name, letter-sound and handwriting song; includes vocabulary beyond this lesson. Preview for any soft-g examples; lesson 16 focuses on /g/. |
+| 17 | b | [Letter B Song](https://www.youtube.com/watch?v=QZXvFQdebK8) — Have Fun Teaching | 3:44 | Letter-name, letter-sound and handwriting song; includes vocabulary beyond this lesson. |
+| 22 | k | [Letter K Song](https://www.youtube.com/watch?v=ysQ5X7sXDec) — Have Fun Teaching | 3:35 | Letter-name, letter-sound and handwriting song; includes vocabulary beyond this lesson. |
+| 23 | h | [Letter H Song](https://www.youtube.com/watch?v=zeIo_VorLE4) — Have Fun Teaching | 3:44 | Letter-name, letter-sound and handwriting song; includes vocabulary beyond this lesson. |
+| 24, 25 | r | [Letter R Song](https://www.youtube.com/watch?v=rk7LyXljotg) — Have Fun Teaching | 3:40 | Letter-name, letter-sound and handwriting song; includes vocabulary beyond this lesson. |
+| 26, 27 | l | [Letter L Song](https://www.youtube.com/watch?v=bv7_iA6AgVY) — Have Fun Teaching | 3:34 | Letter-name, letter-sound and handwriting song; includes vocabulary beyond this lesson. General l practice; does not cover all or the full Part 2 lesson. |
+| 31 | x | [Letter X Song](https://www.youtube.com/watch?v=eWJ8w5T8XpI) — Have Fun Teaching | 3:39 | Letter-name, letter-sound and handwriting song; includes vocabulary beyond this lesson. |
+| 34 | z | [Letter Z Song](https://www.youtube.com/watch?v=ffrfzECOYfg) — Have Fun Teaching | 3:39 | Letter-name, letter-sound and handwriting song; includes vocabulary beyond this lesson. |
+| 1, 35, 38, 41 | a | [Short Vowel Letter a](https://www.youtube.com/watch?v=vE2T8P8kURo) — English4abc | 2:25 | Short-vowel song with word examples; review letters in each example before assigning. |
+| 18, 40, 41 | e | [Short Vowel Letter e](https://www.youtube.com/watch?v=y1VTHOfIO4E) — English4abc | 2:26 | Short-vowel song with word examples; review letters in each example before assigning. |
+| 8, 36, 38, 41 | i | [Short Vowel Letter i](https://www.youtube.com/watch?v=ZY1ZRuEcah4) — English4abc | 2:04 | Short-vowel song with word examples; review letters in each example before assigning. |
+| 12, 37, 38, 41 | o | [Short Vowel Letter o](https://www.youtube.com/watch?v=NFe1JXK8nT4) — English4abc | 2:02 | Short-vowel song with word examples; review letters in each example before assigning. |
+| 15, 39, 41 | u | [Short Vowel Letter u](https://www.youtube.com/watch?v=i81NmRz4nu0) — English4abc | 2:16 | Short-vowel song with word examples; review letters in each example before assigning. |
+| 29 | j | [The j sound](https://www.youtube.com/watch?v=u6XlyICN_aM) — Mr T’s Phonics | 2:00 | Focused sound practice. Examples may include spellings taught later; preview before assigning. |
+| 33 | v | [The v sound](https://www.youtube.com/watch?v=VkXLv3c2y0k) — Mr T’s Phonics | 1:45 | Focused sound practice. Examples may include spellings taught later; preview before assigning. |
+| 30 | y | [The consonant y sound](https://www.youtube.com/watch?v=Q3P0xYmTOWc) — Mr T’s Phonics | 1:46 | Consonant y as in yes, not its vowel sounds. |
+| 28 | w | [The w sound](https://www.youtube.com/watch?v=mjmsx-XmB5w) — Mr T’s Phonics | 1:44 | Focused sound practice. Examples may include spellings taught later; preview before assigning. |
+| 32 | qu | [Qu q](https://www.youtube.com/watch?v=zL-Sg_FdcQI) — Mr T’s Phonics | 1:54 | Focused sound practice. Examples may include spellings taught later; preview before assigning. |
+| 42 | ff | [ff spelling](https://www.youtube.com/watch?v=nFqKUBZQhJA) — Mr T’s Phonics | 1:24 | Supports ff only within the FLSZ rule. |
+| 42 | ll | [The ll spelling](https://www.youtube.com/watch?v=r3YtQuyS1fc) — Mr T’s Phonics | 1:51 | Supports ll only within the FLSZ rule. |
+| 42 | ss | [The ss spelling](https://www.youtube.com/watch?v=6G0G-CEVXis) — Mr T’s Phonics | 1:05 | Supports ss only within the FLSZ rule. |
+| 42 | zz | [The zz spelling](https://www.youtube.com/watch?v=036uprV52rE) — Mr T’s Phonics | 0:54 | Supports zz only within the FLSZ rule. |
+| 48, 49, 53 | ch | [The ch sound](https://www.youtube.com/watch?v=ZF6PwqOkO9k) — Mr T’s Phonics | 2:28 | Focused sound practice. Examples may include spellings taught later; preview before assigning. |
+| 46, 47, 49, 53 | th | [The th sound](https://www.youtube.com/watch?v=6hZMjZGNq4g) — Mr T’s Phonics | 2:24 | Shared th clip; preview the balance of voiced and unvoiced examples. |
+| 50, 53 | ph | [ph spelling for the f sound](https://www.youtube.com/watch?v=b6Keu6eiptc) — Mr T’s Phonics | 1:19 | Supports ph only; lesson 50 also teaches wh. |
+| 55, 57, 59, 62 | i_e | [i-e split digraph](https://www.youtube.com/watch?v=4-swf3Gy_40) — Mr T’s Phonics | 1:28 | British term split digraph corresponds to VCe/silent e. Does not teach exceptions. |
+| 56, 57, 59, 62 | o_e | [o-e split digraph](https://www.youtube.com/watch?v=VpTIpkgU1fY) — Mr T’s Phonics | 1:17 | British term split digraph corresponds to VCe/silent e. Does not teach exceptions. |
+| 57, 59, 62 | e_e | [e-e split digraph](https://www.youtube.com/watch?v=kFuETDoqVnA) — Mr T’s Phonics | 0:57 | Supports the e_e portion of lesson 57. Does not teach VCe exceptions. |
+| 58, 59, 62 | u_e | [u-e split digraph](https://www.youtube.com/watch?v=CQXnqp8g9WM) — Mr T’s Phonics | 1:20 | Preview which /oo/ and /yoo/ examples are included. Does not teach VCe exceptions. |
+| 60, 117 | c /s/ | [Soft c](https://www.youtube.com/watch?v=3Y38dsw2Edw) — Mr T’s Phonics | 1:59 | Broader soft-c rule; lesson 60 specifically focuses on final -ce. |
+| 61, 117 | g /j/ | [Soft g](https://www.youtube.com/watch?v=3ofthnZXdyU) — Mr T’s Phonics | 1:17 | Broader soft-g rule; lesson 61 specifically focuses on final -ge. |
+| 69, 71, 76 | tch | [tch for the ch sound](https://www.youtube.com/watch?v=kibwDQpqtA4) — Mr T’s Phonics | 1:20 | Supports tch, not the dge part of the review. |
+| 73, 76 | y /ī/ | [y for the long i sound](https://www.youtube.com/watch?v=t0C01G_sCsQ) — Mr T’s Phonics | 1:08 | Focused sound practice. Examples may include spellings taught later; preview before assigning. |
+| 74, 76 | y /ē/ | [y as long e](https://www.youtube.com/watch?v=naZWdYBJ70A) — Mr T’s Phonics | 1:12 | Focused sound practice. Examples may include spellings taught later; preview before assigning. |
+| 78, 79, 83 | or | [The or sound](https://www.youtube.com/watch?v=TtK7EcfcIEM) — Mr T’s Phonics | 1:55 | Supports or; lesson 78 also includes ore. |
+| 78, 79, 83 | ore | [ore for the or sound](https://www.youtube.com/watch?v=QBark9-HRmQ) — Mr T’s Phonics | 1:34 | Supports ore only; rhotic and non-rhotic accents differ. |
+| 80, 82, 83 | er | [The er sound](https://www.youtube.com/watch?v=DUwkOZzL40Q) — Mr T’s Phonics | 2:45 | Focused sound practice. Examples may include spellings taught later; preview before assigning. |
+| 81, 82, 83 | ir | [The ir spelling](https://www.youtube.com/watch?v=c_09njG46O0) — Mr T’s Phonics | 1:30 | Supports ir only, not ur or w + or. |
+| 84, 88, 97 | ai | [The ai sound](https://www.youtube.com/watch?v=uxDatnyiYPI) — Mr T’s Phonics | 1:44 | Supports ai only. |
+| 84, 88, 97 | ay | [The ay sound](https://www.youtube.com/watch?v=j87nbA2I7Zo) — Mr T’s Phonics | 1:06 | Supports ay only. |
+| 85, 88, 97 | ee | [The ee sound](https://www.youtube.com/watch?v=Hqqh8WoBPkM) — Mr T’s Phonics | 2:26 | Supports ee only. |
+| 85, 88, 97 | ea /ē/ | [ea for the long e sound](https://www.youtube.com/watch?v=U5KZNjV37Mo) — Mr T’s Phonics | 1:51 | Long-e ea as in eat; not short-e ea as in head. |
+| 85, 88, 97 | ey /ē/ | [ey for the long e sound](https://www.youtube.com/watch?v=jua0OODatow) — Mr T’s Phonics | 0:54 | Supports ey only. |
+| 86, 88, 97 | oa | [The oa sound](https://www.youtube.com/watch?v=tbLTgyrC3eg) — Mr T’s Phonics | 1:23 | Supports oa only. |
+| 86, 88, 97 | ow /ō/ | [ow for the long o sound](https://www.youtube.com/watch?v=Wot5CmStKlY) — Mr T’s Phonics | 1:08 | Long-o ow as in snow, not /ow/ as in cow. |
+| 87, 88, 97 | igh | [The igh sound](https://www.youtube.com/watch?v=Xj1fge3ylWY) — Mr T’s Phonics | 2:01 | Focused sound practice. Examples may include spellings taught later; preview before assigning. |
+| 87, 88, 97 | ie /ī/ | [ie for the long i sound](https://www.youtube.com/watch?v=bysxOlWkT08) — Mr T’s Phonics | 0:55 | Long-i ie as in pie; not /ee/ as in chief. |
+| 91, 92, 97, 115 | ew | [ew spelling: oo and yoo](https://www.youtube.com/watch?v=GJL84QOnGIA) — Mr T’s Phonics | 1:56 | Shared /oo/ and /yoo/ overview; lesson 91 targets /oo/. |
+| 91, 92, 97, 115 | ue | [ue for oo and yoo](https://www.youtube.com/watch?v=JtbWNyyctzU) — Mr T’s Phonics | 1:52 | Shared /oo/ and /yoo/ overview; does not cover ui or every spelling in lesson 115. |
+| 93, 97 | aw | [The aw spelling](https://www.youtube.com/watch?v=finOGW5MCCs) — Mr T’s Phonics | 1:20 | Supports aw only; not au or augh. |
+| 93, 97 | au · aw | [au, or, ore and aw](https://www.youtube.com/watch?v=RBPIvgL89jQ) — Mr T’s Phonics | 1:10 | Broad comparison; includes r-controlled patterns, and does not establish augh coverage. |
+| 94, 97 | ea /ĕ/ | [ea spelling for the e sound: head](https://www.youtube.com/watch?v=kdswe0jQo6I) — Mr T’s Phonics | 1:02 | Supports ea /ĕ/ only; lesson 94 also covers a /ŏ/. |
+| 96, 97 | ou /ow/ | [ou for the ow sound](https://www.youtube.com/watch?v=z9NqcU6ccz0) — Mr T’s Phonics | 1:09 | Focused sound practice. Examples may include spellings taught later; preview before assigning. |
+| 96, 97 | ow /ow/ | [The ow sound](https://www.youtube.com/watch?v=EznhbviF_2w) — Mr T’s Phonics | 1:54 | Diphthong ow as in cow; not long-o ow as in snow. |
+| 98 | kn | [Silent k](https://www.youtube.com/watch?v=TXjiuS-VARE) — Mr T’s Phonics | 1:06 | Supports kn only; not wr or mb. |
+| 116 | ough | [The ough spelling](https://www.youtube.com/watch?v=WGERKJYjkQI) — Mr T’s Phonics | 1:09 | Broader ough pronunciation overview; lesson 116 focuses on /aw/ and /ō/. |
+| 118 | gn | [Silent g](https://www.youtube.com/watch?v=dtVNDx18Jss) — Mr T’s Phonics | 0:50 | Supports a silent-g pattern only; not all patterns in lesson 118. |
+| 112 | air | [The air sound](https://www.youtube.com/watch?v=f3X0SrSeIas) — Mr T’s Phonics | 2:01 | Supports air only; not all are and ear examples. |
+| 113 | ear | [The ear sound](https://www.youtube.com/watch?v=dHe3Ripnt08) — Mr T’s Phonics | 1:33 | British ear pronunciation differs from American rhotic models. |
+| 20, 21, 63, 99 | -s · -es | [Plurals: -s and -es](https://www.youtube.com/watch?v=lD1OaD4FBqM) — Nessy | 1:51 | Broader plural spelling overview; not a dedicated contrast of /s/ and /z/ ending sounds. |
+| 75, 76 | -le | [Word endings: -le, -al, -el](https://www.youtube.com/watch?v=wvNeBxVuXxI) — Nessy | 2:10 | Includes -al and -el beyond the lesson focus. These are word-ending patterns, not all grammatical suffixes. |
+| 64 | -ed | [The three sounds of -ed](https://www.youtube.com/watch?v=msJIy_f_Xsw) — Nessy | 2:59 | Covers the three -ed pronunciations together. |
+| 44, 49, 53 | ck · k | [Using ck or k](https://www.youtube.com/watch?v=XTmXI3cjCUA) — Nessy | 2:08 | Focused sound practice. Examples may include spellings taught later; preview before assigning. |
+| 66, 67, 68 | open · closed | [Closed and open syllables](https://www.youtube.com/watch?v=c3j3YVocNxk) — Nessy | 1:39 | Introduces the syllable types; does not by itself cover every two-syllable division pattern in lessons 67–68. |
+| 101, 110 | -ly | [LY words](https://www.youtube.com/watch?v=gOoZ3HAbhO0) — Nessy | 2:13 | Includes spelling changes and y-to-i examples beyond introductory -ly. |
+| 84, 88, 97 | ai · ay | [When to use ai or ay](https://www.youtube.com/watch?v=BGrIyCT7nK0) — Nessy | 1:28 | Focused sound practice. Examples may include spellings taught later; preview before assigning. |
+| 69, 71, 76 | tch · ch | [Using tch or ch](https://www.youtube.com/watch?v=PW7_tssT1XU) — Nessy | 2:16 | Focused sound practice. Examples may include spellings taught later; preview before assigning. |
+| 98, 118 | silent letters | [Silent letters](https://www.youtube.com/watch?v=6p4hRbPQC2w) — Nessy | 2:16 | Shared silent-letter overview. Check the particular patterns before use; not full coverage of either lesson. |
+| 89, 90, 92, 97 | oo /ʊ/ · /ū/ | [OO and oo: long and short vowel sounds](https://www.youtube.com/watch?v=Dbvp5ZNxabI) — English4abc | 3:03 | Contrasts the two oo sounds together; does not cover u as in put. |
+| 20, 21, 99 | -s | [Suffix S — 4 Minute Phonics](https://www.youtube.com/watch?v=vrBy2h2QRUc) — 4 Minute Phonics | 4:43 | Plural s practice. Preview whether both /s/ and /z/ endings are explicitly distinguished. |
+| 63, 99 | -es | [Suffix ES — 4 Minute Phonics](https://www.youtube.com/watch?v=sna5xIpQswA) — 4 Minute Phonics | 4:43 | Focused sound practice. Examples may include spellings taught later; preview before assigning. |
+| 65 | -ing | [Suffix ING — 4 Minute Phonics](https://www.youtube.com/watch?v=vSatZL0pXME) — 4 Minute Phonics | 4:29 | Focused sound practice. Examples may include spellings taught later; preview before assigning. |
+| 64 | -ed /d/ | [Suffix ED: sounds like D — 4 Minute Phonics](https://www.youtube.com/watch?v=5lm_rqzvBGc) — 4 Minute Phonics | 4:41 | One of the three -ed pronunciations. |
+| 64 | -ed /t/ | [Suffix ED: sounds like T — 4 Minute Phonics](https://www.youtube.com/watch?v=brNmyCru578) — 4 Minute Phonics | 4:43 | One of the three -ed pronunciations. |
+| 64 | -ed /ĭd/ | [Suffix ED: sounds like ID — 4 Minute Phonics](https://www.youtube.com/watch?v=x44loPo27hA) — 4 Minute Phonics | 4:25 | One of the three -ed pronunciations. |
+| 110 | -ies | [Suffix IES — 4 Minute Phonics](https://www.youtube.com/watch?v=yAgiiTaO7qk) — 4 Minute Phonics | 4:50 | Supports y-to-i plural spelling; not all applications of the rule. |
+| 84, 88, 97 | ai | [AI vowel team — 4 Minute Phonics](https://www.youtube.com/watch?v=BBHprAvNMeU) — 4 Minute Phonics | 4:10 | Focused sound practice. Examples may include spellings taught later; preview before assigning. |
+| 84, 88, 97 | ay | [AY vowel team — 4 Minute Phonics](https://www.youtube.com/watch?v=Cfztk62qOiQ) — 4 Minute Phonics | 3:57 | Focused sound practice. Examples may include spellings taught later; preview before assigning. |
+| 86, 88, 97 | oa | [OA vowel team — 4 Minute Phonics](https://www.youtube.com/watch?v=4IHbyEBtk8o) — 4 Minute Phonics | 3:58 | Focused sound practice. Examples may include spellings taught later; preview before assigning. |
+| 86, 88, 97 | ow /ō/ | [OW vowel team: long O — 4 Minute Phonics](https://www.youtube.com/watch?v=J0c6CrJ4-Zo) — 4 Minute Phonics | 3:42 | Long-o ow as in snow, not cow. |
+| 87, 88, 97 | ie /ī/ | [IE vowel team: long I — 4 Minute Phonics](https://www.youtube.com/watch?v=VvdGql3OG6A) — 4 Minute Phonics | 4:02 | Long-i ie as in pie, not /ee/ as in chief. |
+| 91, 92, 97 | ue · ui | [UE and UI vowel teams — 4 Minute Phonics](https://www.youtube.com/watch?v=XCliF1guNck) — 4 Minute Phonics | 4:02 | Covers ue and ui together; check pronunciation in example words. |
+| 85, 88, 97 | ea /ē/ | [EA vowel team: long E — 4 Minute Phonics](https://www.youtube.com/watch?v=UlYE8wO8BMw) — 4 Minute Phonics | 3:45 | Focused sound practice. Examples may include spellings taught later; preview before assigning. |
+| 85, 88, 97 | ee | [EE vowel team — 4 Minute Phonics](https://www.youtube.com/watch?v=hfqyLaFf9A8) — 4 Minute Phonics | 3:45 | Focused sound practice. Examples may include spellings taught later; preview before assigning. |
+| 90, 92, 97 | oo /ū/ | [OO vowel team: like zoo — 4 Minute Phonics](https://www.youtube.com/watch?v=GIhE7R_dIcs) — 4 Minute Phonics | 3:49 | Long oo as in zoo, not /ʊ/ as in look. |
+| 89, 92, 97 | oo /ʊ/ | [OO vowel team: like look — 4 Minute Phonics](https://www.youtube.com/watch?v=w0i_kB1C1w4) — 4 Minute Phonics | 3:58 | Supports oo /ʊ/ only; lesson 89 also teaches u as in put. |
+| 95, 97 | oi | [OI vowel team — 4 Minute Phonics](https://www.youtube.com/watch?v=sCc6puJ0BDs) — 4 Minute Phonics | 3:40 | Focused sound practice. Examples may include spellings taught later; preview before assigning. |
+| 95, 97 | oy | [OY vowel team — 4 Minute Phonics](https://www.youtube.com/watch?v=0gu6uKQV7HQ) — 4 Minute Phonics | 3:52 | Focused sound practice. Examples may include spellings taught later; preview before assigning. |
+| 96, 97 | ou /ow/ | [OU vowel team — 4 Minute Phonics](https://www.youtube.com/watch?v=LN5B-3d0-Jw) — 4 Minute Phonics | 3:58 | Focused sound practice. Examples may include spellings taught later; preview before assigning. |
+| 96, 97 | ow /ow/ | [OW vowel team: like cow — 4 Minute Phonics](https://www.youtube.com/watch?v=6_NhK0kvFIw) — 4 Minute Phonics | 3:36 | Diphthong ow as in cow, not long-o ow as in snow. |
+| 93, 97 | au | [AU vowel team — 4 Minute Phonics](https://www.youtube.com/watch?v=dcFWOtHOxwo) — 4 Minute Phonics | 3:54 | Supports au, not augh. |
+| 93, 97 | aw | [AW vowel team — 4 Minute Phonics](https://www.youtube.com/watch?v=0u9yEd_CWac) — 4 Minute Phonics | 3:53 | Supports aw, not augh. |
+| 44, 49, 53 | ck | [Digraph CK — 4 Minute Phonics](https://www.youtube.com/watch?v=qEgggBAF_nw) — 4 Minute Phonics | 3:44 | Focused sound practice. Examples may include spellings taught later; preview before assigning. |
+| 45, 49, 53 | sh | [Digraph SH — 4 Minute Phonics](https://www.youtube.com/watch?v=G45tEZ-N12k) — 4 Minute Phonics | 3:48 | Focused sound practice. Examples may include spellings taught later; preview before assigning. |
+| 48, 49, 53 | ch | [Digraph CH — 4 Minute Phonics](https://www.youtube.com/watch?v=y7HBpHKV7CU) — 4 Minute Phonics | 3:57 | Focused sound practice. Examples may include spellings taught later; preview before assigning. |
+| 47, 49, 53 | th /θ/ | [Digraph TH: voiceless — 4 Minute Phonics](https://www.youtube.com/watch?v=Hzzd1Bu3_Uc) — 4 Minute Phonics | 4:00 | Voiceless th only, as in thin; not voiced th as in this. |
+| 51, 53 | ng | [Digraph NG — 4 Minute Phonics](https://www.youtube.com/watch?v=5oArsf3o-fk) — 4 Minute Phonics | 3:36 | Focused sound practice. Examples may include spellings taught later; preview before assigning. |
+| 52, 53 | nk | [NK word families — 4 Minute Phonics](https://www.youtube.com/watch?v=lJrLRruK5Es) — 4 Minute Phonics | 4:01 | nk represents /ŋ/ + /k/; it is not a single phoneme. |
+| 54, 57, 59, 62 | a_e | [Long A with magic E — 4 Minute Phonics](https://www.youtube.com/watch?v=Jh6mpDjl994) — 4 Minute Phonics | 4:25 | Does not teach VCe exceptions. |
+| 55, 57, 59, 62 | i_e | [Long I with magic E — 4 Minute Phonics](https://www.youtube.com/watch?v=kn39GuqZjGE) — 4 Minute Phonics | 4:05 | Does not teach VCe exceptions. |
+| 58, 59, 62 | u_e | [Long U with magic E — 4 Minute Phonics](https://www.youtube.com/watch?v=p2NPLKjZJDw) — 4 Minute Phonics | 4:09 | Preview the /oo/ and /yoo/ examples. Does not teach VCe exceptions. |
+| 56, 57, 59, 62 | o_e | [Long O with magic E — 4 Minute Phonics](https://www.youtube.com/watch?v=4ykXL_Isazk) — 4 Minute Phonics | 4:10 | Does not teach VCe exceptions. |
+| 57, 59, 62 | VCe | [CVCe practice — 4 Minute Phonics](https://www.youtube.com/watch?v=A0194QvCw98) — 4 Minute Phonics | 3:45 | Shared review; does not teach VCe exceptions. |
+| 43 | all · oll · ull | [-ALL -OLL -ULL: UFLI lesson 43](https://www.youtube.com/watch?v=bi2HckUFfc0) — Mr Spelling | 2:34 | Creator labels this UFLI lesson 43. Shared practice for all three endings. |
+| 11, 35 | an · am | [Whiny A: nasalized a, -an and -am](https://www.youtube.com/watch?v=B33Uo7OmHr4) — Mr Spelling | 2:23 | Creator labels this UFLI lesson 11. This is a nasalized-a spelling pattern, not a separate letter. |
+| 117 | c /s/ · g /j/ | [Soft C and soft G](https://www.youtube.com/watch?v=dio4XkyqVcQ) — Mr Spelling | 2:15 | USA English version. Covers both signal-vowel patterns together. |
+| 118 | ch /ch/ /k/ /sh/ | [CH makes three sounds](https://www.youtube.com/watch?v=0amigSygcC8) — Mr Spelling | 2:59 | Shared ch pronunciation review; does not cover gn, gh or silent t. |
+| 70, 71, 76 | dge · ge | [The final j sound: dge and ge](https://www.youtube.com/watch?v=uXA3PfE_4Qc) — Mr Spelling | 2:55 | Covers both final spellings together. |
+| 112 | air · are · ear | [The air sound: AIR, ARE and EAR](https://www.youtube.com/watch?v=8q-qJYq46oA) — Mr Spelling | 3:06 | Shared review of the three spellings. |
+| 114 | ei · eigh · a | [Long A: eight ways to make the sound](https://www.youtube.com/watch?v=9FXaFmg1nhY) — Mr Spelling | 4:01 | Broader long-a review. Preview coverage of each spelling; do not assume all UFLI alternatives appear. |
+| 75, 76 | -le | [Consonant LE syllable type](https://www.youtube.com/watch?v=5NNV9t0UlKM) — Mr Spelling | 3:40 | Consonant-le syllables, with syllable-division practice. |
+| 100, 108 | -er | [Suffix ER: comparatives](https://www.youtube.com/watch?v=O_lVtJT5VMY) — Mr Spelling | 3:28 | Comparative -er with spelling changes. Does not teach agent -er/-or/-ist in lesson 121. |
+| 121 | -or · -er | [Adding or instead of er](https://www.youtube.com/watch?v=0meTyHl7ES8) — Mr Spelling | 1:35 | Agent suffix comparison; does not establish -ist coverage. |
+| 62 | final e | [Silent final E: purposes and spelling rules](https://www.youtube.com/watch?v=fO04lVQN21o) — Mr Spelling | 3:29 | Advanced final-e overview. Preview against the specific VCe exceptions in lesson 62. |
+| 102 | -ful · -fully | [Adding suffixes ful and fully](https://www.youtube.com/watch?v=nHNU1-jANVM) — Mr Spelling | 2:54 | Supports -ful; includes -fully beyond introductory -less/-ful. |
+| 66, 67, 68 | open · closed | [Open and closed syllables](https://www.youtube.com/watch?v=X5tvfVd13pQ) — Mr Spelling | 2:40 | Syllable-type overview; not complete coverage of each division lesson. |
+| 70, 71, 76 | dge | [DGE Ending Sound Song](https://www.youtube.com/watch?v=7MOqgEol2V0) — Rock ’N Learn | 3:03 | Supports dge; preview vocabulary for later spellings. |
+| 72, 76 | ild ind old olt ost | [The Wild Old Colt Words Song](https://www.youtube.com/watch?v=JfRkUL1EIEY) — The Readers Garden | 2:39 | Closed-syllable exceptions reviewed together. Preview the examples against your lesson. |
+| 122, 128 | -ish | [Suffix ISH](https://www.youtube.com/watch?v=JaNfHlsgaXk) — Learning Lab - English Made Easy! | 2:22 | A short suffix explanation; preview vocabulary and examples with a grown-up. |
+| 123, 128 | -y | [Spelling with Grammarsaurus: suffix y](https://www.youtube.com/watch?v=Sd5U_tiRRTA) — Grammarsaurus | 3:38 | Suffix -y, not the consonant sound or every vowel use of y. |
+| 102, 124, 125, 128 | -ness · -ment | [Spelling suffixes ment, ness and ful](https://www.youtube.com/watch?v=oLrK4epzuiA) — Super Brainy Beans | 2:44 | Shared suffix spelling overview; broader than an individual lesson. |
+| 126, 128 | -able · -ible | [Suffixes ible vs able: spelling rules](https://www.youtube.com/watch?v=1ui0ynHTOdc) — EasyTeaching | 3:56 | Compares both spellings. Preview the spelling advice and vocabulary before assigning. |
+| 127, 128 | uni- bi- tri- | [Prefixes semi, re, uni, tri and bi](https://www.youtube.com/watch?v=dlBO-irVzmM) — Learning is fun | 2:29 | Shared prefix overview; also includes semi- and re-. Not exclusive to the UFLI lesson. |
+| 100, 106, 108 | -er · -est | [Spelling with Grammarsaurus: er and est](https://www.youtube.com/watch?v=6cL6MzA4SpU) — Grammarsaurus | 4:35 | Comparative and superlative endings with spelling changes; not agent suffixes. |
+| 102, 106 | -less | [Spelling with Grammarsaurus: less](https://www.youtube.com/watch?v=zu5sAoOBr_I) — Grammarsaurus | 2:31 | Supports -less only. |
+| 19, 41 | CVC | [CVC practice — 4 Minute Phonics](https://www.youtube.com/watch?v=Cv6NFRk638s) — 4 Minute Phonics | 3:24 | Review after learning the alphabet sounds. Not restricted to letters known at lessons 5 or 10. |
+| 111 | -ar · -or /er/ | [UFLI lesson 111: home connection](https://www.youtube.com/watch?v=VwA-JwIuy8c) — Erin Sharon | 1:23 | Home-connection video for grown-up-guided practice. Preview first; this is not a full independent child lesson. |
+
+## Remaining video gaps
+
+- Lesson 5: VC & CVC words (original built-in practice is available).
+- Lesson 10: CVC practice (a, i) (original built-in practice is available).

@@ -8,7 +8,7 @@ No build step or dependencies. Run `python3 -m http.server 4173 --directory dist
 
 ## Included
 
-29 video links with researched listed runtimes under five minutes; six original word-card activities; all 128 lessons with explicit resource gaps; search, category filters, sorting, eight playlists, grid/list views, browser-local bookmarks and history, and practice-only mode.
+164 video links with researched listed runtimes under five minutes; six original word-card activities; all 128 lessons with explicit resource gaps; search, category filters, sorting, eight playlists, grid/list views, browser-local bookmarks and history, and practice-only mode.
 
 ## Content and China access
 
@@ -27,3 +27,10 @@ GitHub Pages serves `index.html` from the main branch root, using assets in `dis
 ## Validate
 
 Run `node tests/catalog.test.cjs`. Browser QA covers lesson search, bookmarks, lesson gaps, practice progression, mobile layouts and click-to-load players.
+
+
+## Expanded sound catalog
+
+The expanded catalog contains 164 clips with listed runtimes at or below five minutes, checked on 19 November 2026. Coverage includes individual alphabet sounds, vowel teams, digraphs, VCe, r-controlled vowels, spelling rules and affixes. Exact supporting lesson arrays avoid treating a noncontiguous set of review lessons as a continuous range. Accent notes and partial-coverage cautions appear in the player. Full video instructional review is still pending. Lessons 5 and 10 currently have original practice rather than a suitably restricted video.
+
+See `CATALOG-SOURCES.md` for the research and duration evidence.
