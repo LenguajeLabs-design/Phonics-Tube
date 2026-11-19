@@ -34,3 +34,9 @@ Run `node tests/catalog.test.cjs`. Browser QA covers lesson search, bookmarks, l
 The expanded catalog contains 164 clips with listed runtimes at or below five minutes, checked on 19 November 2026. Coverage includes individual alphabet sounds, vowel teams, digraphs, VCe, r-controlled vowels, spelling rules and affixes. Exact supporting lesson arrays avoid treating a noncontiguous set of review lessons as a continuous range. Accent notes and partial-coverage cautions appear in the player. Full video instructional review is still pending. Lessons 5 and 10 currently have original practice rather than a suitably restricted video.
 
 See `CATALOG-SOURCES.md` for the research and duration evidence.
+
+## Teacher and home views
+
+Teachers can select a lesson, preview videos, print a short practice routine and copy a home-learning link. Home links open a focused child view with word practice. Review notes stay on the current browser and can be exported. Search supports sound spellings, lesson numbers, titles, creators and categories.
+
+Additional checks: `node tests/search.test.cjs` and `node tests/teacher-tools.test.cjs`.

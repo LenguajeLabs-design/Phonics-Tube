@@ -1,0 +1,14 @@
+const fs=require('node:fs'),vm=require('node:vm'),assert=require('node:assert/strict');
+const context=vm.createContext({URL,URLSearchParams,location:{href:'http://127.0.0.1:4173/'},read:()=>({})});
+vm.runInContext(fs.readFileSync('dist/data.js','utf8')+'\n'+fs.readFileSync('dist/teacher-tools.js','utf8')+'\nthis.api={preferredVideo,lessonURL,words:TEACHING_WORDS};',context);
+const {preferredVideo,lessonURL,words}=context.api;
+assert.equal(preferredVideo(45).id,'4m-sh');
+assert.equal(preferredVideo(5),undefined,'Do not invent a video for a practice-only lesson');
+const url=new URL(lessonURL(45,true,'4m-sh'));const hash=new URLSearchParams(url.hash.slice(1));
+assert.equal(hash.get('face'),'home');assert.equal(hash.get('lesson'),'45');assert.equal(hash.get('video'),'4m-sh');
+assert.equal(new URLSearchParams(new URL(lessonURL(84,false)).hash.slice(1)).get('face'),'teacher');
+assert.deepEqual(Array.from(words[45]),['ship','shop','fish']);
+vm.runInContext("assignedVideo='4m-oo-long';",context);
+assert.notEqual(preferredVideo(45).id,'4m-oo-long','Assigned video must support the actual lesson');
+assert.equal(preferredVideo(90).id,'4m-oo-long');
+console.log('PASS: separate view links, exact video assignment, practice-only gaps and lesson word bank.');
